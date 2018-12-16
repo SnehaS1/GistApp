@@ -1,2 +1,0 @@
-# GistApp
-Created with CodeSandbox
